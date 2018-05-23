@@ -35,4 +35,6 @@
 - Hearts give you extra lifes
 - You win when you reach level 40
 
-
+### How to run this locally
+- Open `index.html` on your preferred browser.
+- There should be a pop up message to choose the player.
